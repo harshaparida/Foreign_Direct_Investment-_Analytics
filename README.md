@@ -76,5 +76,3 @@ For any queries or suggestions, please contact:
 - **LinkedIn**: [www.linkedin.com/in/harshaparida]
 
 ---
-
-**Note**: Customize the contact section with your details before sharing the project.
